@@ -1,0 +1,7 @@
+body{
+    background-color: #222;
+    min-height: 100vh; 
+}
+.expense-category-text::after{
+    mix-blend-mode: difference;
+}
